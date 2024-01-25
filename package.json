@@ -18,8 +18,7 @@
     "prepare": "npm run rollup"
   },
   "publishConfig": {
-    "access": "restricted",
-    "@cshield.tech:registry": "https://gitlab.cshield.io/api/v4/projects/280/packages/npm/"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
